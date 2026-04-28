@@ -170,7 +170,7 @@ Precision holes were drilled using a **mini drill press** with bit sizes of **0.
 Components were placed per the silkscreen layout and soldered using a **temperature-controlled iron** with lead-tin wire, targeting concave solder joints for maximum reliability.
 </p>
 <p align="center">
-  <img src="images/assembly.jpg" alt="Soldering" width="500"/>
+  <img src="images/assembly.jpeg" alt="Soldering" width="500"/>
   <br><em>Figure 13 — Components being assempled onto the board</em>
 </p>
 <p align="center">
@@ -189,7 +189,7 @@ After assembly, the circuit was powered through a **safety isolation transformer
 
 <p align="center">
   <img src="images/testing_dmm.png" alt="Testing with DMM" width="500"/>
-  <br><em>Figure 14 — Measuring output voltage and current with DMM</em>
+  <br><em>Figure 14 — Measuring output voltage and current </em>
 </p>
 
 ---
