@@ -236,8 +236,8 @@ The board was then cleaned with **Isopropyl Alcohol (IPA)** to remove flux resid
 ```
 📦 AC-DC-LED-Driver-PCB
  ┣ 📂 images/                  ← All photos and screenshots
- ┣ 📂 ltspice/                 ← LTspice simulation files (.asc, .raw)
- ┣ 📂 kicad/                   ← KiCad project files (.kicad_sch, .kicad_pcb)
+ ┣ 📂 ltspice/                 ← LTspice simulation files 
+ ┣ 📂 kicad/                   ← KiCad project files 
  ┣ 📄 README.md                ← This file
  ┗ 📄 LED_Driver_PCB_Report.pdf ← Full technical report
 ```
