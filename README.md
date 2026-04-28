@@ -1,4 +1,4 @@
-# ⚡ AC-to-DC LED Driver PCB — Five-Channel Infrared LED Driver
+# ⚡ AC-to-DC LED Driver PCB — Five-Channel Infrared LED Driver NOTE : photos under review
 
 <p align="center">
   <img src="images/final_board_lit.jpg" alt="Final Board Powered On" width="600"/>
