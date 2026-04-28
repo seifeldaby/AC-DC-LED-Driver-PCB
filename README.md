@@ -83,12 +83,7 @@ The circuit was first drawn and simulated in **LTspice** using a `.tran 0.5` tra
   <br><em>Figure 3 — Stable 9.1 V regulated output</em>
 </p>
 
-**LED Branch Currents:**
 
-<p align="center">
-  <img src="images/waveform_led_current.png" alt="LED Branch Currents" width="650"/>
-  <br><em>Figure 4 — LED branch currents settling to ~18.8 mA</em>
-</p>
 
 ---
 
@@ -128,7 +123,7 @@ The board was fabricated entirely by hand using the **toner transfer method**. B
 The layout was printed on **glossy paper** using a laser printer, then heat-transferred onto the copper-clad board using an iron.
 
 <p align="center">
-  <img src="images/toner_transfer.jpg" alt="Toner Transfer" width="500"/>
+  <img src="images/toner_transfer.jpeg" alt="Toner Transfer" width="500"/>
   <br><em>Figure 8 — Toner transferred onto copper-clad board</em>
 </p>
 
@@ -137,16 +132,18 @@ The layout was printed on **glossy paper** using a laser printer, then heat-tran
 The board was submerged in **Ferric Chloride (FeCl₃)** solution to dissolve the exposed copper, leaving only the toner-protected traces.
 
 <p align="center">
-  <img src="images/etching.jpg" alt="Chemical Etching" width="500"/>
+  <img src="images/etching.jpeg" alt="Chemical Etching" width="500"/>
   <br><em>Figure 9 — Board during chemical etching process</em>
 </p>
-
+<p align="center">
+  <img src="images/etching 1.jpeg" alt="Chemical Etching" width="500"/>
+</p>
 ### 3.3 Cleaning & Inspection
 
 Toner was removed with **Acetone/Thinner** to reveal the copper tracks. A visual inspection was performed to check for shorts or broken traces.
 
 <p align="center">
-  <img src="images/cleaned_board.jpg" alt="Cleaned Board" width="500"/>
+  <img src="images/cleaned_board.jpeg" alt="Cleaned Board" width="500"/>
   <br><em>Figure 10 — Board after cleaning, copper traces visible</em>
 </p>
 
@@ -155,7 +152,7 @@ Toner was removed with **Acetone/Thinner** to reveal the copper tracks. A visual
 A **Digital Multimeter** was used to verify electrical integrity of all traces before drilling.
 
 <p align="center">
-  <img src="images/continuity_test.jpg" alt="Continuity Testing" width="500"/>
+  <img src="images/continuity_test.png" alt="Continuity Testing" width="500"/>
   <br><em>Figure 11 — Continuity testing with DMM</em>
 </p>
 
@@ -164,18 +161,25 @@ A **Digital Multimeter** was used to verify electrical integrity of all traces b
 Precision holes were drilled using a **mini drill press** with bit sizes of **0.8 mm – 1.0 mm** depending on component lead diameter.
 
 <p align="center">
-  <img src="images/drilling.jpg" alt="Drilling" width="500"/>
+  <img src="images/drilling.jpeg" alt="Drilling" width="500"/>
   <br><em>Figure 12 — Drilling through-hole component pads</em>
 </p>
 
 ### 3.6 Component Assembly & Soldering
 
 Components were placed per the silkscreen layout and soldered using a **temperature-controlled iron** with lead-tin wire, targeting concave solder joints for maximum reliability.
-
+</p>
 <p align="center">
-  <img src="images/soldering.jpg" alt="Soldering" width="500"/>
+  <img src="images/assembly.jpg" alt="Soldering" width="500"/>
+  <br><em>Figure 13 — Components being assempled onto the board</em>
+</p>
+<p align="center">
+  <img src="images/soldering.jpeg" alt="Soldering" width="500"/>
   <br><em>Figure 13 — Components being soldered onto the board</em>
 </p>
+<p align="center">
+  <img src="images/soldering 2.jpeg" alt="Soldering" width="500"/>
+  <br><em>Figure 13 — Components being soldered onto the board</em>
 
 ---
 
@@ -184,7 +188,7 @@ Components were placed per the silkscreen layout and soldered using a **temperat
 After assembly, the circuit was powered through a **safety isolation transformer** for the initial power-up. Output voltage and LED branch currents were measured with a multimeter to confirm they met specifications.
 
 <p align="center">
-  <img src="images/testing_dmm.jpg" alt="Testing with DMM" width="500"/>
+  <img src="images/testing_dmm.png" alt="Testing with DMM" width="500"/>
   <br><em>Figure 14 — Measuring output voltage and current with DMM</em>
 </p>
 
@@ -195,7 +199,7 @@ After assembly, the circuit was powered through a **safety isolation transformer
 The completed board with all five IR LEDs operational:
 
 <p align="center">
-  <img src="images/final_board_lit.jpg" alt="Final Board Powered" width="600"/>
+  <img src="images/final_board_lit.png" alt="Final Board Powered" width="600"/>
   <br><em>Figure 15 — Final assembled board with LEDs powered on</em>
 </p>
 
@@ -242,9 +246,8 @@ The board was then cleaned with **Isopropyl Alcohol (IPA)** to remove flux resid
 
 ## 👤 Author
 
-**Seif Elden Mostafa Salah**  
+**Seif Elden Mostafa Salah Eldaby**  
 Electrical & Electronics Engineering — Assiut University (Class of 2029)  
-Autonomous Systems Engineer @ Assiut Motorsport | VP @ Astro
 
 **Supervisor:** Dr. Khalil Ismail  
 Faculty of Engineering — Assiut University
